@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Desafio Firebae</string>
+    <string name="inputPassword">Password</string>
+    <string name="inputEmail">Email</string>
+    <string name="checkboxRemember">Remember</string>
+    <string name="buttonLogin">Log In</string>
+    <string name="buttonCreateAccount">Create account</string>
+    <string name="repeate_password">Repeate password</string>
+    <string name="create_account">Create Account</string>
+    <string name="name">Name</string>
+    <string name="search_games">Search Games</string>
+    <string name="lancamento">Lancamento: </string>
+    <string name="description">Description</string>
+    <string name="created_at">Created at</string>
+</resources>
